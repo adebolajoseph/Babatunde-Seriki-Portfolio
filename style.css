@@ -26,4 +26,5 @@
 @media(max-width:680px){.project-info p,.expertise-card p,.process-step p,.about-content p,.section-heading p{font-size:12px}.tag-row span{font-size:9px}.project-meta{font-size:9px}}
 .about-layout{grid-template-columns:.8fr 1.2fr}
 @media(max-width:680px){.about-layout{grid-template-columns:1fr}}
+@media(max-width:680px){.float-card-top{top:-24px;right:0}}
 
